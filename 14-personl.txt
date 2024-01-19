@@ -503,249 +503,249 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://moobl.ru/hls/TNT_Music.m3u8
 #EXTINF:-1 group-title="音乐",Шансон-ТВ
 http://moobl.ru/hls/Shanson_tv.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Not allowed under the age of 18
+#EXTINF:-1 group-title="18+少儿不宜",Not allowed under the age of 18
 http://23.237.100.82:8000/BRAZZERS/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Not allowed under the age of 17
+#EXTINF:-1 group-title="18+少儿不宜",Not allowed under the age of 17
 https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",3
+#EXTINF:-1 group-title="18+少儿不宜",3
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",4
+#EXTINF:-1 group-title="18+少儿不宜",4
 https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",5
+#EXTINF:-1 group-title="18+少儿不宜",5
 http://151.248.16.100:4444/Dusk/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",6
+#EXTINF:-1 group-title="18+少儿不宜",6
 http://93.155.227.38:80/m3u8/hustler.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",7
+#EXTINF:-1 group-title="18+少儿不宜",7
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",8
+#EXTINF:-1 group-title="18+少儿不宜",8
 http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",9
+#EXTINF:-1 group-title="18+少儿不宜",9
 http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",10
+#EXTINF:-1 group-title="18+少儿不宜",10
 http://109.71.163.112:1935/live/hd.jasminchannel.stream/chunklist_w342629205.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",11
+#EXTINF:-1 group-title="18+少儿不宜",11
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",12
+#EXTINF:-1 group-title="18+少儿不宜",12
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",13
+#EXTINF:-1 group-title="18+少儿不宜",13
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",14
+#EXTINF:-1 group-title="18+少儿不宜",14
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",15
+#EXTINF:-1 group-title="18+少儿不宜",15
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",16
+#EXTINF:-1 group-title="18+少儿不宜",16
 http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",17
+#EXTINF:-1 group-title="18+少儿不宜",17
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",18
+#EXTINF:-1 group-title="18+少儿不宜",18
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",19
+#EXTINF:-1 group-title="18+少儿不宜",19
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",20
+#EXTINF:-1 group-title="18+少儿不宜",20
 http://93.155.227.38:80/m3u8/private.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",21
+#EXTINF:-1 group-title="18+少儿不宜",21
 http://78.47.224.234/puretaboo/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",22
+#EXTINF:-1 group-title="18+少儿不宜",22
 http://51.159.102.100/RedlightHD/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",23
+#EXTINF:-1 group-title="18+少儿不宜",23
 http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116425.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",24
+#EXTINF:-1 group-title="18+少儿不宜",24
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",25
+#EXTINF:-1 group-title="18+少儿不宜",25
 https://live.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Compilation Porn
+#EXTINF:-1 group-title="18+少儿不宜",Compilation Porn
 https://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",27
+#EXTINF:-1 group-title="18+少儿不宜",27
 https://live.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",28
+#EXTINF:-1 group-title="18+少儿不宜",28
 https://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",29
+#EXTINF:-1 group-title="18+少儿不宜",29
 https://live.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",XXX2
+#EXTINF:-1 group-title="18+少儿不宜",XXX2
 https://live.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",31
+#EXTINF:-1 group-title="18+少儿不宜",31
 https://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",32
+#EXTINF:-1 group-title="18+少儿不宜",32
 https://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",33
+#EXTINF:-1 group-title="18+少儿不宜",33
 https://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",34
+#EXTINF:-1 group-title="18+少儿不宜",34
 https://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",35
+#EXTINF:-1 group-title="18+少儿不宜",35
 https://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",36
+#EXTINF:-1 group-title="18+少儿不宜",36
 https://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",37
+#EXTINF:-1 group-title="18+少儿不宜",37
 https://live.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",38
+#EXTINF:-1 group-title="18+少儿不宜",38
 https://live.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",39
+#EXTINF:-1 group-title="18+少儿不宜",39
 https://live.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",40
+#EXTINF:-1 group-title="18+少儿不宜",40
 https://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",41
+#EXTINF:-1 group-title="18+少儿不宜",41
 https://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",42
+#EXTINF:-1 group-title="18+少儿不宜",42
 https://live.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",43
+#EXTINF:-1 group-title="18+少儿不宜",43
 https://live.adultiptv.net/fetish.m3u8 Pornstar XXX
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",45
+#EXTINF:-1 group-title="18+少儿不宜",45
 https://live.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",46
+#EXTINF:-1 group-title="18+少儿不宜",46
 https://live.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",47
+#EXTINF:-1 group-title="18+少儿不宜",47
 https://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",48
+#EXTINF:-1 group-title="18+少儿不宜",48
 https://live.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",499
+#EXTINF:-1 group-title="18+少儿不宜",499
 https://live.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",50
+#EXTINF:-1 group-title="18+少儿不宜",50
 https://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Anal (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Asian (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Asian (720p)
 https://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Big Ass (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Big Ass (720p)
 https://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Big Dick (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Big Dick (720p)
 https://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Big Tits (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Big Tits (720p)
 https://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Blonde (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Blonde (720p)
 https://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Blowjob (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Blowjob (720p)
 https://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Brunette (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Brunette (720p)
 https://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Compilation (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Compilation (720p)
 https://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Cuckold (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Cuckold (720p)
 https://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Fetish (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Fetish (720p)
 https://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Gangbang (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Gangbang (720p)
 https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Gay (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Gay (720p)
 https://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Hardcore (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Hardcore (720p)
 https://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Interracial (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Interracial (720p)
 https://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Latina (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Latina (720p)
 https://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Lesbian (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Lesbian (720p)
 https://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Live Cams (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Live Cams (720p)
 https://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net MILF (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net MILF (720p)
 https://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Pornstar (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Pornstar (720p)
 https://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net POV (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net POV (720p)
 https://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Rough (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Rough (720p)
 https://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Russian (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Russian (720p)
 https://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Teen (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Teen (720p)
 https://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Threesome (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Threesome (720p)
 https://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",AdultIPTV.net Woman (720p)
+#EXTINF:-1 group-title="18+少儿不宜",AdultIPTV.net Woman (720p)
 https://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Babestation24 (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Babestation24 (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Brazzers TV Europe (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Dorcel TV (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Dorcel TV (720p)
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",EroX HD (720p)
+#EXTINF:-1 group-title="18+少儿不宜",EroX HD (720p)
 https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",EroXXX HD (720p)
+#EXTINF:-1 group-title="18+少儿不宜",EroXXX HD (720p)
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Hustler HD (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Hustler HD (720p)
 https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Jenny For You (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Jenny For You (720p)
 https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MiamiTV (1080p)
+#EXTINF:-1 group-title="18+少儿不宜",MiamiTV (1080p)
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MiamiTV Latino (1080p)
+#EXTINF:-1 group-title="18+少儿不宜",MiamiTV Latino (1080p)
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Anal (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Anal (720p)
 https://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Arab (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Arab (720p)
 http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Asian (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Asian (720p)
 https://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Big Ass (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Big Ass (720p)
 https://live.mycamtv.com/defstream.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Big Tits (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Big Tits (720p)
 https://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Blonde (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Blonde (720p)
 https://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Blowjob (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Blowjob (720p)
 http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Brunette (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Brunette (720p)
 https://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Latina (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Latina (720p)
 https://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Medium (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Medium (720p)
 http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV MILF (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV MILF (720p)
 http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Skinny (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Skinny (720p)
 https://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Squirt (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Squirt (720p)
 https://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Teen (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Teen (720p)
 http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV White (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV White (720p)
 https://live.mycamtv.com/white.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",MyCamTV Young (720p)
+#EXTINF:-1 group-title="18+少儿不宜",MyCamTV Young (720p)
 http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",O-la-la! (576p)
+#EXTINF:-1 group-title="18+少儿不宜",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Penthouse Gold (1080p)
+#EXTINF:-1 group-title="18+少儿不宜",Penthouse Gold (1080p)
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Playboy TV Latin America (1080p)
+#EXTINF:-1 group-title="18+少儿不宜",Playboy TV Latin America (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Private TV (576p)
+#EXTINF:-1 group-title="18+少儿不宜",Private TV (576p)
 http://149.62.183.194:9293/play/a07t
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Private TV HD (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Private TV HD (720p)
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Redlight HD (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Redlight HD (720p)
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Silk (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="18+少儿不宜",Silk (1080p) [Geo-blocked]
 http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",SunBeach TV (1080p)
+#EXTINF:-1 group-title="18+少儿不宜",SunBeach TV (1080p)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Visit-X TV (720p)
+#EXTINF:-1 group-title="18+少儿不宜",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",XXX Cartoons (520p)
+#EXTINF:-1 group-title="18+少儿不宜",XXX Cartoons (520p)
 http://144.76.58.245:2307/cartoon/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",CCTV4K
+#EXTINF:-1 group-title="纯享4K",CCTV4K
 http://ainm.cc/a/play/php/cctv4k.php?id=4khd#http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",CCTV16-4K
+#EXTINF:-1 group-title="纯享4K",CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",CCTV16-4K 18M2160
+#EXTINF:-1 group-title="纯享4K",CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",CCTV16-4K 25M2160
+#EXTINF:-1 group-title="纯享4K",CCTV16-4K 25M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",CCTV8K超高清
+#EXTINF:-1 group-title="纯享4K",CCTV8K超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",咪咕体育4K
+#EXTINF:-1 group-title="纯享4K",咪咕体育4K
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",欢笑剧场4K
+#EXTINF:-1 group-title="纯享4K",欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",4K修复 7M2160HEVC
+#EXTINF:-1 group-title="纯享4K",4K修复 7M2160HEVC
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",华数4K影视
+#EXTINF:-1 group-title="纯享4K",华数4K影视
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",北京纪实8K
+#EXTINF:-1 group-title="纯享4K",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",江苏移动8K测试
+#EXTINF:-1 group-title="纯享4K",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",苏州4K频道
+#EXTINF:-1 group-title="纯享4K",苏州4K频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="😆😁😋🎈纯享4K",CCTV3.超清
+#EXTINF:-1 group-title="纯享4K",CCTV3.超清
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8

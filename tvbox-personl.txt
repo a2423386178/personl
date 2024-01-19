@@ -65,7 +65,7 @@ WOWOW Cinema (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3
 Русский Бестселлер,http://moobl.ru/hls/Russkiy_Bestseller.m3u8
 Русский Иллюзион,http://moobl.ru/hls/Russky_illuzion.m3u8
 СТРК (720p) [Not 24/7],http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-🤡👺🙊🐸音乐,#genre#
+🐸音乐,#genre#
 http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)
 30A Music Channel,https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 70-80 TV (1080P),https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
@@ -253,7 +253,7 @@ ZFM Zoetermeer (720p),https://zfmzoetermeer.nl/live/master.m3u8
 Страна FM (720p) [Not 24/7],http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 ТНТ Music,http://moobl.ru/hls/TNT_Music.m3u8
 Шансон-ТВ,http://moobl.ru/hls/Shanson_tv.m3u8
-🙅‍♂️🚫🔞⛔🚭adult-Do not watch,#genre#
+🔞adult-Do not watch,#genre#
 Not allowed under the age of 18,http://23.237.100.82:8000/BRAZZERS/index.m3u8
 Not allowed under the age of 17,https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8
 3,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
@@ -364,7 +364,7 @@ Silk (1080p) [Geo-blocked],http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 SunBeach TV (1080p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 Visit-X TV (720p),https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 XXX Cartoons (520p),http://144.76.58.245:2307/cartoon/index.m3u8
-😆😁😋🎈纯享4K,#genre#
+纯享4K,#genre#
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd#http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8

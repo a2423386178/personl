@@ -131,377 +131,377 @@ http://moobl.ru/hls/Russkiy_Bestseller.m3u8
 http://moobl.ru/hls/Russky_illuzion.m3u8
 #EXTINF:-1 group-title="💘🏄🏻电影",СТРК (720p) [Not 24/7]
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",30A Music Channel
+#EXTINF:-1 group-title="音乐",30A Music Channel
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",70-80 TV (1080P)
+#EXTINF:-1 group-title="音乐",70-80 TV (1080P)
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",88 Stereo (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",98.1 Pearl FM (720p)
+#EXTINF:-1 group-title="音乐",98.1 Pearl FM (720p)
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",A2i Music (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Activa TV (720p)
+#EXTINF:-1 group-title="音乐",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",AlbKanale Music TV (720p)
+#EXTINF:-1 group-title="音乐",AlbKanale Music TV (720p)
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",AMC (1080p)
+#EXTINF:-1 group-title="音乐",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Amordiscos (540p)
+#EXTINF:-1 group-title="音乐",Amordiscos (540p)
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Arabica TV (720p)
+#EXTINF:-1 group-title="音乐",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Area 809 El Original (1080p)
+#EXTINF:-1 group-title="音乐",Area 809 El Original (1080p)
 https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Atomic Academy TV (480p)
+#EXTINF:-1 group-title="音乐",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Atomic TV (360p)
+#EXTINF:-1 group-title="音乐",Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Avang TV (720p)
+#EXTINF:-1 group-title="音乐",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Azahares Radio Multimedia (720p)
+#EXTINF:-1 group-title="音乐",Azahares Radio Multimedia (720p)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Baraza TV Deep House (720p)
+#EXTINF:-1 group-title="音乐",Baraza TV Deep House (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Baraza TV Greek Music Hits (1080p)
+#EXTINF:-1 group-title="音乐",Baraza TV Greek Music Hits (1080p)
 https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Baraza TV Relaxing (720p)
+#EXTINF:-1 group-title="音乐",Baraza TV Relaxing (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Bblack! Classik
+#EXTINF:-1 group-title="音乐",Bblack! Classik
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Beats Radio (480p)
+#EXTINF:-1 group-title="音乐",Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Bibel TV Musik (720p)
+#EXTINF:-1 group-title="音乐",Bibel TV Musik (720p)
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Boogle Bollywood (1080p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Boogle Bollywood (1080p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Busuioc TV (540p)
+#EXTINF:-1 group-title="音乐",Busuioc TV (540p)
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Caltex TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Caltex TV (720p) [Not 24/7]
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Canal 3 KMK TV (720p)
+#EXTINF:-1 group-title="音乐",Canal 3 KMK TV (720p)
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Cantina TV (1080p)
+#EXTINF:-1 group-title="音乐",Cantina TV (1080p)
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",CCTV-16 (1080p)
+#EXTINF:-1 group-title="音乐",CCTV-16 (1080p)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",City Music TV (720p)
+#EXTINF:-1 group-title="音乐",City Music TV (720p)
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Cool FM 98.9 (720p)
+#EXTINF:-1 group-title="音乐",Cool FM 98.9 (720p)
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",DSTV (614p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",DSTV (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Euro Indie Music Chart TV (360p)
+#EXTINF:-1 group-title="音乐",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Falastini TV [Geo-blocked]
+#EXTINF:-1 group-title="音乐",Falastini TV [Geo-blocked]
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Folk Klub (720p)
+#EXTINF:-1 group-title="音乐",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Folklorit TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Folklorit TV (1080p) [Not 24/7]
 https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Full Música (720p)
+#EXTINF:-1 group-title="音乐",Full Música (720p)
 https://eu1.servers10.com:8081/8060/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",GO-RTV (720p)
+#EXTINF:-1 group-title="音乐",GO-RTV (720p)
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Good-Sound (720p)
+#EXTINF:-1 group-title="音乐",Good-Sound (720p)
 http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Heart Radio Aruba (720p)
+#EXTINF:-1 group-title="音乐",Heart Radio Aruba (720p)
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Impact TV Dance (1080p)
+#EXTINF:-1 group-title="音乐",Impact TV Dance (1080p)
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Impact TV Manele (1080p)
+#EXTINF:-1 group-title="音乐",Impact TV Manele (1080p)
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",INTV Australia (720p)
+#EXTINF:-1 group-title="音乐",INTV Australia (720p)
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Isai Aruvi (576p)
+#EXTINF:-1 group-title="音乐",Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Italianissimo (360p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Italianissimo (360p) [Not 24/7]
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Jawhara FM (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Jawhara FM (720p) [Not 24/7]
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",JooMusic (720p)
+#EXTINF:-1 group-title="音乐",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",KandelaTV (480p)
+#EXTINF:-1 group-title="音乐",KandelaTV (480p)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Kayo Pops (544p)
+#EXTINF:-1 group-title="音乐",Kayo Pops (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Kiss TV (1080p)
+#EXTINF:-1 group-title="音乐",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",La Chilena TV
+#EXTINF:-1 group-title="音乐",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",La Hermandad Salsera (1080p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",La Ranchera de Cuauhtémoc 89.7 FM (720p)
+#EXTINF:-1 group-title="音乐",La Ranchera de Cuauhtémoc 89.7 FM (720p)
 https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",La Rock 22 (1080p)
+#EXTINF:-1 group-title="音乐",La Rock 22 (1080p)
 http://138.117.4.70:8075/channel22/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",La Voz Grupera TV (720p)
+#EXTINF:-1 group-title="音乐",La Voz Grupera TV (720p)
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Leader Gospel (480p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Leader Gospel (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f633c3bae59-1/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Live99FM (1080p)
+#EXTINF:-1 group-title="音乐",Live99FM (1080p)
 https://media.streambrothers.com:19360/8022/8022.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Look Thoong TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Look Thoong TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Luna Estéreo 106.4 FM (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Luna Estéreo 106.4 FM (720p) [Not 24/7]
 https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Magic TV (480p)
+#EXTINF:-1 group-title="音乐",Magic TV (480p)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Magic TV (720p)
+#EXTINF:-1 group-title="音乐",Magic TV (720p)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",MCM Top
+#EXTINF:-1 group-title="音乐",MCM Top
 http://moobl.ru/hls/MCM_Top.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Melody Channel Colombia (540p)
+#EXTINF:-1 group-title="音乐",Melody Channel Colombia (540p)
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Melody FM Jordan (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Melody FM Jordan (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Memorias TV (480p)
+#EXTINF:-1 group-title="音乐",Memorias TV (480p)
 https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Metropoli Medios TV (720p)
+#EXTINF:-1 group-title="音乐",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Miel TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Miel TV (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",MNTV Music (1080p)
+#EXTINF:-1 group-title="音乐",MNTV Music (1080p)
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Mun2TV (720p)
+#EXTINF:-1 group-title="音乐",Mun2TV (720p)
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Music India (576p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Music India (576p) [Not 24/7]
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Music Japan TV (544p)
+#EXTINF:-1 group-title="音乐",Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",MUZZIK (720p)
+#EXTINF:-1 group-title="音乐",MUZZIK (720p)
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik ELECTRO (720p)
+#EXTINF:-1 group-title="音乐",Muzzik ELECTRO (720p)
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik FLASHBACK (720p)
+#EXTINF:-1 group-title="音乐",Muzzik FLASHBACK (720p)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik MOBA (720p)
+#EXTINF:-1 group-title="音乐",Muzzik MOBA (720p)
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik POP STAR (720p)
+#EXTINF:-1 group-title="音乐",Muzzik POP STAR (720p)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik SENSE (720p)
+#EXTINF:-1 group-title="音乐",Muzzik SENSE (720p)
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik TIKTAK (720p)
+#EXTINF:-1 group-title="音乐",Muzzik TIKTAK (720p)
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Muzzik ZZ TV (720p)
+#EXTINF:-1 group-title="音乐",Muzzik ZZ TV (720p)
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Navahang TV (720p)
+#EXTINF:-1 group-title="音乐",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Next HD (480p)
+#EXTINF:-1 group-title="音乐",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",NG (720p)
+#EXTINF:-1 group-title="音乐",NG (720p)
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",NogoumFMTV (672p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",NogoumFMTV (672p) [Not 24/7]
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Now 70's
+#EXTINF:-1 group-title="音乐",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Now 80's
+#EXTINF:-1 group-title="音乐",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",NOW Rock
+#EXTINF:-1 group-title="音乐",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Now TV 102.3FM Edmonton (CKNO-FM)
+#EXTINF:-1 group-title="音乐",Now TV 102.3FM Edmonton (CKNO-FM)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Nueva Vida TV (720p)
+#EXTINF:-1 group-title="音乐",Nueva Vida TV (720p)
 https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",ON FM (720p)
+#EXTINF:-1 group-title="音乐",ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Onda 15 TV (224p)
+#EXTINF:-1 group-title="音乐",Onda 15 TV (224p)
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Onda Valencia (720p)
+#EXTINF:-1 group-title="音乐",Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Ondambiental TV (360p)
+#EXTINF:-1 group-title="音乐",Ondambiental TV (360p)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Pamir TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Pamir TV (1080p) [Not 24/7]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Panik TV (1080p)
+#EXTINF:-1 group-title="音乐",Panik TV (1080p)
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Planet 100.9 FM (1080p)
+#EXTINF:-1 group-title="音乐",Planet 100.9 FM (1080p)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Play TV (480p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Play TV (480p) [Not 24/7]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Play TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Play TV (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/playtv/
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",PMC (1080p)
+#EXTINF:-1 group-title="音乐",PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",PMC Royale (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",POP World TV (720p)
+#EXTINF:-1 group-title="音乐",POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",PTC Dhol (720p)
+#EXTINF:-1 group-title="音乐",PTC Dhol (720p)
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",PTC Music (720p)
+#EXTINF:-1 group-title="音乐",PTC Music (720p)
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Alegria 98.5 FM (720p)
+#EXTINF:-1 group-title="音乐",Radio Alegria 98.5 FM (720p)
 https://video.compuwebecuador.com:3880/stream/play.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Bonita 106.7 (720p)
+#EXTINF:-1 group-title="音乐",Radio Bonita 106.7 (720p)
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Carnaval TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Radio Carnaval TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Cuenca Estéreo (720p)
+#EXTINF:-1 group-title="音乐",Radio Cuenca Estéreo (720p)
 https://eu1.servers10.com:8081/8074/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio El Pueblo (480p)
+#EXTINF:-1 group-title="音乐",Radio El Pueblo (480p)
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Piter Pan TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Radio Piter Pan TV (720p) [Not 24/7]
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio PROS (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Radio PROS (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Realpolitik (720p)
+#EXTINF:-1 group-title="音乐",Radio Realpolitik (720p)
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Reforma Se Oye (720p)
+#EXTINF:-1 group-title="音乐",Radio Reforma Se Oye (720p)
 https://www.streaming507.net:19360/mevo2/mevo2.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Tropical Tarapoto (480p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Radio Weser TV Bremen (576p)
+#EXTINF:-1 group-title="音乐",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",RadioNL TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",RadioNL TV (1080p) [Not 24/7]
 https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Rararadio (720p)
+#EXTINF:-1 group-title="音乐",Rararadio (720p)
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",RedMusic (720p)
+#EXTINF:-1 group-title="音乐",RedMusic (720p)
 https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Reyali (614p)
+#EXTINF:-1 group-title="音乐",Reyali (614p)
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Rock TV (720p)
+#EXTINF:-1 group-title="音乐",Rock TV (720p)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",RTV Glas Drine (404p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",RTV Glas Drine (404p) [Not 24/7]
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",RTV Vida (1080p)
+#EXTINF:-1 group-title="音乐",RTV Vida (1080p)
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Salsa Gorda Television (720p)
+#EXTINF:-1 group-title="音乐",Salsa Gorda Television (720p)
 https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Sehara TV (720p)
+#EXTINF:-1 group-title="音乐",Sehara TV (720p)
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",SL48 TV (576p)
+#EXTINF:-1 group-title="音乐",SL48 TV (576p)
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Somos Topo Point TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Somos Topo Point TV (1080p) [Not 24/7]
 https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Song TV Russia HD
+#EXTINF:-1 group-title="音乐",Song TV Russia HD
 http://moobl.ru/hls/Song_tv_russia_hd.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",SOY Plancha TV (720p)
+#EXTINF:-1 group-title="音乐",SOY Plancha TV (720p)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Space Shower TV (544p)
+#EXTINF:-1 group-title="音乐",Space Shower TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",SpektraTV (720p)
+#EXTINF:-1 group-title="音乐",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Classic Rock (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Classic Rock (1080p)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Easy Listening (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Easy Listening (1080p)
 https://lotus.stingray.com/manifest/ose-137ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Flashback 70s (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Flashback 70s (1080p)
 https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Hit List (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Holiday Hits (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Holiday Hits (1080p)
 https://lotus.stingray.com/manifest/ose-155ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Hot Country (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Nothin' But 90s (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Nothin' But 90s (1080p)
 https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Remember the 80s (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Remember the 80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Rock Alternative (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Rock Alternative (1080p)
 https://lotus.stingray.com/manifest/ose-102ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Romance Latino (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Romance Latino (1080p)
 https://lotus.stingray.com/manifest/ose-202ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Smooth Jazz (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Smooth Jazz (1080p)
 https://lotus.stingray.com/manifest/ose-140ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Soul Storm (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Soul Storm (1080p)
 https://lotus.stingray.com/manifest/ose-134ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray The Spa (1080p)
+#EXTINF:-1 group-title="音乐",Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Today's KPOP (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Today's KPOP (1080p)
 https://lotus.stingray.com/manifest/ose-317ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Today's Latin Pop (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Stingray Urban Beat (1080p)
+#EXTINF:-1 group-title="音乐",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",STZ Telebista (1080p)
+#EXTINF:-1 group-title="音乐",STZ Telebista (1080p)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Super TV (576p)
+#EXTINF:-1 group-title="音乐",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Tele7music (720p)
+#EXTINF:-1 group-title="音乐",Tele7music (720p)
 https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Telehit (576p)
+#EXTINF:-1 group-title="音乐",Telehit (576p)
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Telehit Música (576p)
+#EXTINF:-1 group-title="音乐",Telehit Música (576p)
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Telemúsica TV (540p)
+#EXTINF:-1 group-title="音乐",Telemúsica TV (540p)
 https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",TeleMusik Sénégal (720p)
+#EXTINF:-1 group-title="音乐",TeleMusik Sénégal (720p)
 https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Tezaur TV (1080p)
+#EXTINF:-1 group-title="音乐",Tezaur TV (1080p)
 http://tezaur.mlbfan.org/tezaur/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",The Base Gospel TV (360p)
+#EXTINF:-1 group-title="音乐",The Base Gospel TV (360p)
 https://asiakwa.com/thebasetv/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",TMA (1080p)
+#EXTINF:-1 group-title="音乐",TMA (1080p)
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Top TV (1080p)
+#EXTINF:-1 group-title="音乐",Top TV (1080p)
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",TopEstrada TV (720p)
+#EXTINF:-1 group-title="音乐",TopEstrada TV (720p)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Tropi Q 99.7 FM (1080p)
+#EXTINF:-1 group-title="音乐",Tropi Q 99.7 FM (1080p)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Tropical Music TV (720p)
+#EXTINF:-1 group-title="音乐",Tropical Music TV (720p)
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Tu Música HD (1080p)
+#EXTINF:-1 group-title="音乐",Tu Música HD (1080p)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Turbo Mix Radio TV (360p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",TV Arbëria 4 Muzikë (720p)
+#EXTINF:-1 group-title="音乐",TV Arbëria 4 Muzikë (720p)
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",TV Duga Plus (480p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",TV Duga Plus (480p) [Not 24/7]
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",TVS Music Network (720p)
+#EXTINF:-1 group-title="音乐",TVS Music Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Urbano TV (720p)
+#EXTINF:-1 group-title="音乐",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",V2BEAT (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",V2BEAT (720p) [Not 24/7]
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Verbena TV (1080p)
+#EXTINF:-1 group-title="音乐",Verbena TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Video Tour Channel (480p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Video Tour Channel (480p) [Not 24/7]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Vintage Music (720p)
+#EXTINF:-1 group-title="音乐",Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",VIP TV (720p)
+#EXTINF:-1 group-title="音乐",VIP TV (720p)
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Visión Televisión (720p)
+#EXTINF:-1 group-title="音乐",Visión Televisión (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",VIVA Russia (1080p)
+#EXTINF:-1 group-title="音乐",VIVA Russia (1080p)
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",VM Latino (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",VM Latino (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",VoiceOver Radio TV (720p)
+#EXTINF:-1 group-title="音乐",VoiceOver Radio TV (720p)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Volksmusik TV (1080p)
+#EXTINF:-1 group-title="音乐",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Worldwide Muzzik (720p)
+#EXTINF:-1 group-title="音乐",Worldwide Muzzik (720p)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",XPTV1 (720p)
+#EXTINF:-1 group-title="音乐",XPTV1 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Zerouno TV (720p)
+#EXTINF:-1 group-title="音乐",Zerouno TV (720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",ZFM Zoetermeer (720p)
+#EXTINF:-1 group-title="音乐",ZFM Zoetermeer (720p)
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",БелМузТВ
+#EXTINF:-1 group-title="音乐",БелМузТВ
 http://moobl.ru/hls/Belmuztv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Жар Птица
+#EXTINF:-1 group-title="音乐",Жар Птица
 http://moobl.ru/hls/Zhar_ptica.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Ля-Минор
+#EXTINF:-1 group-title="音乐",Ля-Минор
 http://moobl.ru/hls/Liaminortv.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Матур ТВ (1080p)
+#EXTINF:-1 group-title="音乐",Матур ТВ (1080p)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Муз ТВ
+#EXTINF:-1 group-title="音乐",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",МузСоюз
+#EXTINF:-1 group-title="音乐",МузСоюз
 http://moobl.ru/hls/Muzsoyuz.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Музыка Первого
+#EXTINF:-1 group-title="音乐",Музыка Первого
 http://moobl.ru/hls/Muzyka_pervogo.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Страна FM (720p) [Not 24/7]
+#EXTINF:-1 group-title="音乐",Страна FM (720p) [Not 24/7]
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",ТНТ Music
+#EXTINF:-1 group-title="音乐",ТНТ Music
 http://moobl.ru/hls/TNT_Music.m3u8
-#EXTINF:-1 group-title="http://epg.51zmt.top:8000/difang.xml,#EXTINF:-19XM (480p)",Шансон-ТВ
+#EXTINF:-1 group-title="音乐",Шансон-ТВ
 http://moobl.ru/hls/Shanson_tv.m3u8
 #EXTINF:-1 group-title="🙅‍♂️🚫🔞⛔🚭adult-Do not watch",Not allowed under the age of 18
 http://23.237.100.82:8000/BRAZZERS/index.m3u8

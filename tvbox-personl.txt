@@ -254,6 +254,19 @@ ZFM Zoetermeer (720p),https://zfmzoetermeer.nl/live/master.m3u8
 ТНТ Music,http://moobl.ru/hls/TNT_Music.m3u8
 Шансон-ТВ,http://moobl.ru/hls/Shanson_tv.m3u8
 🔞adult-Do not watch,#genre#
+p站,https://m3u8-rd.playkrx18.site/m3u8v2/720/65a925e6d5e88e010839bc77/1705680983/067b9c1b590abf5a2f4f92cca29c1ecc.m3u8
+6,https://m3u8-rd.playkrx18.site/m3u8v2/720/65a28331d5e88e01083925e3/1705680081/9ba788781cb8a26568abf7911699e9dd.m3u8
+7,https://m3u8-rd.playkrx18.site/m3u8v2/720/65a487dad5e88e0108394e6a/1705681105/8a30c24dfdb562575ea284fd9cef8fd1.m3u8
+jay,https://m3u8-rd.playkrx18.site/m3u8v2/720/65a39a41d5e88e0108394470/1705675465/acd5ea5530353a727ae22220d5ac31db.m3u8
+8,https://uw1052vd.video-delivery.net/u5kjyk2xqle3sdgge7lacoy3ijormhzaucju647q3j3ds4rnp67drk3siwoa/gqbi5quffg~mKVOGXZAS7?token=55pfonx883tapib88myjfx3n&expiry=1705674531324
+khon Lok Jitrakorn,https://m3u8-rd.playkrx18.site/m3u8v2/720/65a11783d5e88e010838f67a/1705681530/c156b4fee36be45355189afba98c5e42.m3u8
+Friend With Big Breasts Girlfriend [Uncut],https://m3u8-rd.playkrx18.site/m3u8v2/720/658f0278d4f03d3c4f40d2b9/1705675533/8ea8785a55e28b8cefc1facc3d7ca1bd.m3u8
+Can We Just Pretend? MissaX,https://m3u8-rd.playkrx18.site/m3u8v2/720/65904c27d4f03d3c4f40e168/1705680515/ac6a851f5d3f0cb782247df1611074d0.m3u8
+菲律宾,https://m3u8-rd.playkrx18.site/m3u8v2/720/659ed718d5e88e010838b25b/1705677639/aa215a5109b8dfc060b6da82bc1ed8d0.m3u8
+hanguo1,https://tonyknee.com/69fb86ea-7101-4262-aff8-66e8a1ca6cde/playlist.m3u8
+hg12,https://tonyknee.com/69fb86ea-7101-4262-aff8-66e8a1ca6cde/1920x1080/video.m3u8
+hg21,https://ratehalt.com/81607ab1-6d61-4eb4-bc48-026cd66e9a35/playlist.m3u8
+hg22,https://ratehalt.com/81607ab1-6d61-4eb4-bc48-026cd66e9a35/1920x1080/video.m3u8
 Not allowed under the age of 18,http://23.237.100.82:8000/BRAZZERS/index.m3u8
 Not allowed under the age of 17,https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8
 3,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8

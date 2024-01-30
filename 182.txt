@@ -1,4 +1,4 @@
-成人频道
+成人频道,#genre#
 Live Cams,http://live.adultiptv.net/livecams.m3u8
 MILF,http://live.adultiptv.net/milf.m3u8
 Big Dick,http://live.adultiptv.net/bigdick.m3u8
@@ -16,7 +16,7 @@ Cuckold,http://live.adultiptv.net/cuckold.m3u8
 Threesome,http://live.adultiptv.net/threesome.m3u8
 Russian,http://live.adultiptv.net/russian.m3u8
 Lesbian,http://live.adultiptv.net/lesbian.m3u8
-Rough,http://live.adultiptv.net/rough.m3u8
+Rough刘悦？,http://live.adultiptv.net/rough.m3u8
 Gangbang,http://live.adultiptv.net/gangbang.m3u8
 Anal,http://live.adultiptv.net/anal.m3u8
 Compilation,http://live.adultiptv.net/compilation.m3u8
@@ -24,11 +24,11 @@ Brunette,http://live.adultiptv.net/brunette.m3u8
 Blonde,http://live.adultiptv.net/blonde.m3u8
 Gay,http://live.adultiptv.net/gay.m3u8
 Asian,http://live.adultiptv.net/asian.m3u8
-兔子先生
+兔子先生,#genre#
 成人视频高中生上門援交/TZ-083,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y9/59/a0/bs/a62b1101041b48be89ee2582ef60a323.m3u8?
 萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ag/qi/ij/l2/079eca9b44664d84be021c4998bc0400.m3u8?
 成人视频街頭搭訕女大學生拍攝AV/TZ-001,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
-成人视频
+成人视频1,#genre#
 7月-703ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/614150bf/index.m3u8
 7月-731水戸,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
 7月-743大槻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
@@ -105,6 +105,7 @@ Asian,http://live.adultiptv.net/asian.m3u8
 筱原友香1,https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
 筱原友香2,https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
 咲咲原凛星奈爱,https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+成人视频2,#genre#
 星-152青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/7c007c63/index.m3u8
 星-168青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/eff75385/index.m3u8
 星-182青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/335a2a7f/index.m3u8
@@ -190,6 +191,7 @@ bijn-206渚,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/7588319a/index.m
 BLK-458奏音花音,https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
 blk-547藤森里穂,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/75b14a5f/index.m3u8
 blk-552怜岚,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/0430469f/index.m3u8
+成人视频3,#genre#
 carib002姬川,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib004西川,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib146西川,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -246,6 +248,7 @@ cawd-323日向,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/2d227314/inde
 cawd-324森玲奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3b12f1cc/index.m3u8
 cawd-325楠有栖,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/1ec20ce8/index.m3u8
 cawd-328市川爱茉,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/23e26296/index.m3u8
+成人视频4,#genre#
 cawd-330大岛,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3d5ddc98/index.m3u8
 cawd-337伊藤舞雪,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/795e137b/index.m3u8
 cawd-342桜,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/235e6c5b/index.m3u8
@@ -367,6 +370,7 @@ ipx-747岬,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/e03ca65c/index.m3
 ipx-749希岛,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/2ee91922/index.m3u8
 ipx-750宠爱,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/e2fe3dc2/index.m3u8
 ipx-753白峰,https://siwazywcdn2.com:5278/zhongwenzimu/uzsUN2HX/index.m3u8
+成人视频5,#genre#
 ipx-762西宫,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/9426795d/index.m3u8
 ipx-778桃乃木,https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/0685df9f/index.m3u8
 ipx-788乃雪,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/3bd7bb75/index.m3u8
@@ -547,6 +551,7 @@ pred-365香椎花乃,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/890dc24
 rbd-223管野,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/9b65972c/index.m3u8
 rbd-978藤森里穂,https://t11.cdn2020.com:12336/video/m3u8/2021/09/06/4af63f0b/index.m3u8
 rctd-418辻,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/af0cb0cf/index.m3u8
+成人视频6,#genre#
 rki-614ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/6341ebd8/index.m3u8
 rki-621川上奈々美,https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/0d347bb1/index.m3u8
 roe-032水野优香,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/335cd318/index.m3u8

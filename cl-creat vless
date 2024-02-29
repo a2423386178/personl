@@ -1,12 +1,14 @@
+// 不知道从哪找的几个代理IP，试试看行不行
+// cdn-all.xn--b6gac.eu.org 、cdn.xn--b6gac.eu.org 、cdn-b100.xn--b6gac.eu.org 、edgetunnel.anycast.eu.org 、cdn.anycast.eu.org
 // <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = '75c45fe1-3ea9-4f41-9be8-fb26429829d0';
+let userID = '4bb9ae63-4173-442c-9ad0-9eb1e4477265';
 
-let proxyIP = '113.64.186.198';
+let proxyIP = 'cdn.anycast.eu.org';
 
 
 if (!isValidUUID(userID)) {

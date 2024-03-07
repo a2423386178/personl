@@ -1,3 +1,9 @@
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@acjp2.cloudflarest.link:2052?encryption=none&security=none&sni=0307bestip01.wer87858.workers.dev&fp=randomized&type=ws&host=0307bestip01.wer87858.workers.dev&path=%2F%3Fed%3D2048#0307bestip01.wer87858.workers.dev
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@acjp.cloudflarest.link:2052?encryption=none&security=none&sni=0307bestip01.wer87858.workers.dev&fp=randomized&type=ws&host=0307bestip01.wer87858.workers.dev&path=%2F%3Fed%3D2048#0307bestip01.wer87858.workers.dev
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@acsg.cloudflarest.link:2052?encryption=none&security=none&sni=0307bestip01.wer87858.workers.dev&fp=randomized&type=ws&host=0307bestip01.wer87858.workers.dev&path=%2F%3Fed%3D2048#0307bestip01.wer87858.workers.dev
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@acsg3.cloudflarest.link:2052?encryption=none&security=none&sni=0307bestip01.wer87858.workers.dev&fp=randomized&type=ws&host=0307bestip01.wer87858.workers.dev&path=%2F%3Fed%3D2048#0307bestip01.wer87858.workers.dev
+
+
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@172.64.23.47:2052?encryption=none&security=none&sni=205201.wer87858.workers.dev&fp=randomized&type=ws&host=205201.wer87858.workers.dev&path=%2F%3Fed%3D2048#205201.wer87858.%E7%91%9E%E5%85%B8
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@162.159.160.213:2052?encryption=none&security=none&sni=205202.wer87858.workers.dev&fp=randomized&type=ws&host=205202.wer87858.workers.dev&path=%2F%3Fed%3D2048#205202.wer87858.%E7%BE%8E%E5%9B%BD%E8%B4%B9%E5%9F%8E
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@131.186.36.248:80?encryption=none&security=none&sni=tzs2.wer87858.workers.dev&fp=randomized&type=ws&host=tzs2.wer87858.workers.dev&path=%2F%3Fed%3D2048#tzs2.wer87858.Japan

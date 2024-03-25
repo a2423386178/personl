@@ -8,5 +8,5 @@ vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@172.64.99.45:443?encryption=none&se
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@[2606:4700:8dd9:7944:cbfb:9a98:21f4:b035]:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#443%E8%87%AA%E9%80%89IP
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@[2606:4700:8dd0:3680:cf1c:449c:c46e:c490]:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#443%E8%87%AA%E9%80%89IP
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@[2606:4700:99e8:d0e5:0f06:90b6:c5b9:2849]:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#443%E8%87%AA%E9%80%89IP
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@[2606:4700:8dd9:7944:cbfb:9a98:21f4:b035]:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#443%E8%87%AA%E9%80%89IP
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@[2606:4700:8dd0:3680:cf1c:449c:c46e:c490]:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#443%E8%87%AA%E9%80%89IP
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@[2606:4700:90c3:5e39:a89a:b824:65f:c69b]:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#443%E8%87%AA%E9%80%89IP
+

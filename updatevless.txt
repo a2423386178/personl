@@ -1,3 +1,4 @@
+vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMzQuMTA1LjEyOC4xMiIsImFkZCI6IjM0LjEwNS4xMjguMTIiLCJwb3J0IjoiNDUyNjUiLCJpZCI6IjdmN2JlOGJjLTU2M2MtNDMxOC1hNjFhLTVlZTcxYjdhMzhkYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIifQ==
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@172.64.132.195:80?encryption=none&security=none&sni=fandai2version.wer87859.workers.dev&fp=random&type=ws&host=fandai2version.wer87859.workers.dev&path=%2F%3Fed%3D2048#update4
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@172.64.26.247:80?encryption=none&security=none&sni=fandai2version.wer87859.workers.dev&fp=random&type=ws&host=fandai2version.wer87859.workers.dev&path=%2F%3Fed%3D2048#update4
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@172.64.173.228:80?encryption=none&security=none&sni=fandai2version.wer87859.workers.dev&fp=random&type=ws&host=fandai2version.wer87859.workers.dev&path=%2F%3Fed%3D2048#update4

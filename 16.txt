@@ -168,6 +168,28 @@ CCTV-17,http://58.19.182.187:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 青海卫视,http://36.248.137.69:60033/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://219.145.93.74:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0#http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+[随便一些],#genre#
+Channel Ginga (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+NHK BSP4K (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+Dunia Sinema (1080p) [!],https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+TAKARAZUKA SKY STAGE (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+Toei Channel (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+TV5 (1080p),https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
+VNews (TTXVN) (1080p) [!],https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
+Vinh Phuc TV (1080p) [!],http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+Al Mamlaka TV,https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+CCTN 47 (1080p) [Not 24/7],http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+Al Jazeera English QA | Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8#http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+Thai PBS 3 [!],http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+Persiana 4Kurd,https://4kuhls.persiana.live/hls/stream.m3u8
+Sat 7 Pars,https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8
+Ishtar TV (1080p) [!],http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
+Pulari TV (720p) [Not 24/7],https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+Vision (1080p),http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+
 [SiTV系列],#genre#
 
 

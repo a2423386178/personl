@@ -6,11 +6,5 @@ vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@192.18.134.231:443?encryption=none&
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@150.230.47.17:443?encryption=none&security=tls&sni=329.wer59153.onflashdrive.app&fp=random&type=ws&host=329.wer59153.onflashdrive.app&path=%2F%3Fed%3D2048#w59-US1
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@192.18.141.9:443?encryption=none&security=tls&sni=329.wer59153.onflashdrive.app&fp=random&type=ws&host=329.wer59153.onflashdrive.app&path=%2F%3Fed%3D2048#w59-US3
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@132.226.168.199:18421?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F%3Fed%3D2048#KR-Oracle%20Cloud
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.76.180.109:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#San%20Jose-SJC-AS45102-Alibaba
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@216.24.176.129:443?encryption=none&security=tls&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F%3Fed%3D2048#US-Fiber-logic
 vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@216.24.176.129:443?encryption=none&security=tls&sni=329.wer59153.onflashdrive.app&fp=random&type=ws&host=329.wer59153.onflashdrive.app&path=%2F#Los%20Angeles-LAX-AS21887-Fiber-logic
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.76.180.109:443?encryption=none&security=tls&sni=329.wer59153.onflashdrive.app&fp=random&type=ws&host=329.wer59153.onflashdrive.app&path=%2F%3Fed%3D2048#US-45102-Alibaba
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.243.161.235:80?encryption=none&security=none&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#HK-Hong%20Kong-HKG%2018
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.245.10.123:2095?encryption=none&security=none&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#JP-Tokyo-NRT%2021
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.218.3.12:2095?encryption=none&security=none&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#HK-Hong%20Kong-HKG%2012
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@138.2.18.11:2052?encryption=none&security=none&sni=1.we88.onflashdrive.app&fp=random&type=ws&host=1.we88.onflashdrive.app&path=%2F#JP-Tokyo-NRT%2022

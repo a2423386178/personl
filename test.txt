@@ -1,7 +1,8 @@
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.219.245.232:2053?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-170
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.236.94.113:2096?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-180
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.219.4.122:2087?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-190
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.219.183.31:2053?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-190
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.222.252.123:2087?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-190
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.236.109.115:2087?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-210
-vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.236.79.87:2083?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=0411SG-240
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.219.245.232:2053?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-170
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.236.94.113:2096?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-180
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.219.4.122:2087?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-190
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.219.183.31:2053?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-190
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@8.222.252.123:2087?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-190
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.236.109.115:2087?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-210
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@47.236.79.87:2083?encryption=none&security=tls&sni=3.we88.onflashdrive.app&fp=random&type=ws&host=3.we88.onflashdrive.app&path=%2F%3Fed%3D2048#0411SG-240
+vless://63926b45-0fbd-4c61-8419-a17faf41dd7f@150.230.47.17:443?encryption=none&security=tls&sni=329.wer59153.onflashdrive.app&fp=random&type=ws&host=329.wer59153.onflashdrive.app&path=%2F%3Fed%3D2048#w59-US1

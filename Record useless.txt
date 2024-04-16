@@ -5,3 +5,29 @@ bash <(wget -qO- -o- https://git.io/v2ray.sh)
 生成的节点信息
 vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMzQuMTA1LjEyOC4xMiIsImFkZCI6IjM0LjEwNS4xMjguMTIiLCJwb3J0IjoiNDUyNjUiLCJpZCI6IjdmN2JlOGJjLTU2M2MtNDMxOC1hNjFhLTVlZTcxYjdhMzhkYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIifQ==
 kankan
+
+# personl
+'icook.tw:2053#优选域名',
+	'cloudflare.cfgo.cc#优选官方线路',
+	'icook.hk:8443#香港',
+	'cfip.xxxxxxxx.tk#官方优选-otc提供',
+	'hk.100366.xyz#香港',
+
+'cfip.xxxxxxxx.tk:2096#Tweek1',
+'hk.100366.xyzcdn.kaiche.tk:2096#Tweek2',
+'hk.100366.xyzc.xf.free.hr:2087#Tweek3',
+'hk.100366.xyzcf.090227.xyz:443#Tweek4',
+'hk.100366.xyzsp.rweek.top:443#Tweek5',
+'hk.100366.xyzhk.rweek.top:2052#Tweek6',
+
+ cfip.xxxxxxxx.tk:2096
+
+cdn.kaiche.tk:2096
+
+c.xf.free.hr:2087
+
+cf.090227.xyz:443
+
+sp.rweek.top:443
+
+hk.rweek.top:2052

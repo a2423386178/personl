@@ -1,0 +1,109 @@
+// ==UserScript==
+// @name         421必应自动搜索
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Automatically perform a search on Bing with random intervals between 2, 4, 5, and 6 seconds, click on a random search result after each search, and scroll down a random number of lines after each search result page load. Also, randomly switch between international and local versions of Bing.
+// @author       You
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 定义搜索关键词列表
+    var searchKeywords = [
+        "apple",
+        "banana",
+        "cat",
+        "dog",
+        "elephant",
+        "fish",
+        "grape",
+        "horse",
+        "ice cream",
+        "jellyfish",
+        "kiwi",
+        "lion",
+        "monkey",
+        "nest",
+        "orange",
+        "pineapple",
+        "queen",
+        "rabbit",
+        "strawberry",
+        "tiger",
+        "umbrella",
+        "vanilla",
+        "watermelon",
+        "xylophone",
+        "yak",
+        "zebra"
+    ];
+
+    // 随机选择一个搜索关键词
+    function getRandomKeyword() {
+        return searchKeywords[Math.floor(Math.random() * searchKeywords.length)];
+    }
+
+    // 随机选择一个间隔时间
+    function getRandomInterval() {
+        var intervals = [2000, 4000, 5000, 6000]; // 2秒, 4秒, 5秒, 6秒
+        return intervals[Math.floor(Math.random() * intervals.length)];
+    }
+
+    // 随机点击一个搜索结果
+    function clickRandomResult() {
+        var results = document.querySelectorAll("ol#b_results > li");
+        if (results.length > 0) {
+            var randomIndex = Math.floor(Math.random() * results.length);
+            var randomResult = results[randomIndex];
+            var link = randomResult.querySelector("h2 a, .b_algo h2 a");
+            if (link) {
+                link.click();
+            }
+        }
+    }
+
+    // 随机选择国际版或国内版
+    function getRandomLocale() {
+        var locales = ["com", "cn"]; // 国际版和国内版
+        return locales[Math.floor(Math.random() * locales.length)];
+    }
+
+    // 随机滚动页面
+    function randomScroll() {
+        var scrollLines = Math.floor(Math.random() * 20) + 1; // 随机选择1到20行
+        window.scrollBy(0, scrollLines * 100); // 每行大约100像素
+    }
+
+    // 定义搜索函数
+    function performSearch() {
+        // 随机选择国际版或国内版
+        var locale = getRandomLocale();
+        var searchUrl = "https://www.bing." + locale + "/";
+
+        // 获取随机关键词
+        var searchKeyword = getRandomKeyword();
+
+        // 在搜索框中输入关键词
+        document.getElementById("sb_form_q").value = searchKeyword;
+
+        // 模拟点击搜索按钮
+        document.getElementById("sb_form_go").click();
+
+        // 在随机间隔后点击一个搜索结果
+        setTimeout(clickRandomResult, 3000); // 3秒后点击结果
+
+        // 在随机间隔后随机滚动页面
+        setTimeout(randomScroll, 5000); // 5秒后滚动页面
+
+        // 重定向到随机选择的地区
+        setTimeout(function() {
+            window.location.href = searchUrl;
+        }, 7000); // 7秒后重定向到新的搜索页面
+    }
+
+    // 定时执行搜索
+    setInterval(performSearch, getRandomInterval());
+})();

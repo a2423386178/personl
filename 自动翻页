@@ -1,0 +1,25 @@
+// ==UserScript==
+// @name         Auto Scroll Down
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Automatically scroll down a specified number of lines every two seconds.
+// @author       You
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 设置每次滚动的行数范围
+    const minLines = 4;
+    const maxLines = 30;
+
+    // 每隔两秒滚动一次
+    setInterval(() => {
+        // 生成一个随机数，用于确定滚动的行数
+        const linesToScroll = Math.floor(Math.random() * (maxLines - minLines + 1)) + minLines;
+        // 向下滚动指定行数
+        window.scrollBy(0, linesToScroll * 20); // 20像素/行
+    }, 2000);
+})();

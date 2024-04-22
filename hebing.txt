@@ -1,0 +1,166 @@
+// ==UserScript==
+// @name         Auto Scroll Down
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Automatically scroll down a specified number of lines every two seconds.
+// @author       You
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 设置每次滚动的行数范围
+    const minLines = 4;
+    const maxLines = 30;
+
+    // 每隔两秒滚动一次
+    setInterval(() => {
+        // 生成一个随机数，用于确定滚动的行数
+        const linesToScroll = Math.floor(Math.random() * (maxLines - minLines + 1)) + minLines;
+        // 向下滚动指定行数
+        window.scrollBy(0, linesToScroll * 20); // 20像素/行
+    }, 2000);
+})();
+
+// ==UserScript==
+// @name         421必应自动搜索
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  自动在必应上搜索，包括点击随机搜索结果和搜索中国各个省的天气，也会随机切换国际版和本地版的必应。
+// @author       You
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 定义搜索关键词列表
+    var searchKeywords = [
+        "apple",
+        "banana",
+        "cat",
+        "dog",
+        "elephant",
+        "fish",
+        "grape",
+        "horse",
+        "ice cream",
+        "jellyfish",
+        "kiwi",
+        "lion",
+        "monkey",
+        "nest",
+        "orange",
+        "pineapple",
+        "queen",
+        "rabbit",
+        "strawberry",
+        "tiger",
+        "umbrella",
+        "vanilla",
+        "watermelon",
+        "xylophone",
+        "yak",
+        "zebra"
+    ];
+
+    // 中国各个省的天气
+    var chinaWeatherKeywords = [
+        "北京天气",
+        "上海天气",
+        "天津天气",
+        "重庆天气",
+        "河北天气",
+        "山西天气",
+        "辽宁天气",
+        "吉林天气",
+        "黑龙江天气",
+        "江苏天气",
+        "浙江天气",
+        "安徽天气",
+        "福建天气",
+        "江西天气",
+        "山东天气",
+        "河南天气",
+        "湖北天气",
+        "湖南天气",
+        "广东天气",
+        "海南天气",
+        "四川天气",
+        "贵州天气",
+        "云南天气",
+        "陕西天气",
+        "甘肃天气",
+        "青海天气",
+        "台湾天气",
+        "内蒙古天气",
+        "广西天气",
+        "西藏天气",
+        "宁夏天气",
+        "新疆天气",
+        "香港天气",
+        "澳门天气"
+    ];
+
+    // 随机选择一个搜索关键词
+    function getRandomKeyword() {
+        var allKeywords = searchKeywords.concat(chinaWeatherKeywords);
+        return allKeywords[Math.floor(Math.random() * allKeywords.length)];
+    }
+
+    // 随机选择一个间隔时间
+    function getRandomInterval() {
+        var minInterval = 6000; // 最小间隔为6秒
+        var maxInterval = 20000; // 最大间隔为20秒
+        return Math.floor(Math.random() * (maxInterval - minInterval + 1)) + minInterval;
+    }
+
+    // 随机点击一个搜索结果
+    function clickRandomResult() {
+        var results = document.querySelectorAll("ol#b_results > li");
+        if (results.length > 0) {
+            var randomIndex = Math.floor(Math.random() * results.length);
+            var randomResult = results[randomIndex];
+            var link = randomResult.querySelector("h2 a, .b_algo h2 a");
+            if (link) {
+                link.click();
+            }
+        }
+    }
+
+    // 随机选择国际版或国内版
+    function getRandomLocale() {
+        var locales = ["com", "cn"]; // 国际版和国内版
+        return locales[Math.floor(Math.random() * locales.length)];
+    }
+
+    // 定义搜索函数
+    function performSearch() {
+        // 随机选择国际版或国内版
+        var locale = getRandomLocale();
+        var searchUrl = "https://www.bing." + locale + "/";
+
+        // 获取随机关键词
+        var searchKeyword = getRandomKeyword();
+
+        // 在搜索框中输入关键词
+        document.getElementById("sb_form_q").value = searchKeyword;
+
+        // 模拟点击搜索按钮
+        document.getElementById("sb_form_go").click();
+
+        // 在随机间隔后点击一个搜索结果
+        setTimeout(clickRandomResult, 3000); // 3秒后点击结果
+
+        // 重定向到随机选择的地区
+        setTimeout(function() {
+            window.location.href = searchUrl;
+        }, 7000); // 7秒后重定向到新的搜索页面
+    }
+
+    // 定时执行搜索
+    setInterval(performSearch, getRandomInterval());
+})();

@@ -133,7 +133,7 @@
 
     // 随机选择国际版或国内版
     function getRandomLocale() {
-        var locales = ["com", "cn"]; // 国际版和国内版
+        var locales = ["com", "com"]; // 国际版和国内版
         return locales[Math.floor(Math.random() * locales.length)];
     }
 

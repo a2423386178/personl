@@ -1,6 +1,7 @@
-
 谷歌云一键搭建v2节点命令
 bash <(wget -qO- -o- https://git.io/v2ray.sh)
+
+加速https://mirror.ghproxy.com/https://raw.githubusercontent.com/a2423386178/personl/main/meitian.txt
 
 w59天成1.eee55
 https://cm.godns.onflashdrive.app/sub?host=1.eee55.onflashdrive.app&uuid=be62e5d9-d045-4454-a997-ac4cc998d918

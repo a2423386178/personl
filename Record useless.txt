@@ -4,6 +4,10 @@ bash <(wget -qO- -o- https://git.io/v2ray.sh)
 
 w59天成1.eee55
 https://cm.godns.onflashdrive.app/sub?host=1.eee55.onflashdrive.app&uuid=be62e5d9-d045-4454-a997-ac4cc998d918
+w58天成+SG
+https://4.we88.onflashdrive.app/63926b45-0fbd-4c61-8419-a17faf41dd7f
+w58-Moist_R-地区多
+https://moistr.freenods.sbs/free?host=3.we88.onflashdrive.app&uuid=63926b45-0fbd-4c61-8419-a17faf41dd7f
 
 生成的节点信息
 vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMzQuMTA1LjEyOC4xMiIsImFkZCI6IjM0LjEwNS4xMjguMTIiLCJwb3J0IjoiNDUyNjUiLCJpZCI6IjdmN2JlOGJjLTU2M2MtNDMxOC1hNjFhLTVlZTcxYjdhMzhkYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIifQ==

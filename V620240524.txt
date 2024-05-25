@@ -1,3 +1,15 @@
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:b:6255:ce47:d4f2:719b:4bf7]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3022:62b3:1097:6054:a82:a266]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3001:7ef6:6df2:9b93:91b8:c39f]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:10:6e:5841:d73c:25b0:335d]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2a06:98c1:3106:35b6:b7a7:4472:5fb2:7b60]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3001:99e4:f1a7:37d9:eb1c:a0a9]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:10:0:84:b4f0:69c1:592d]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:a:0:8510:c04a:df0f:d240]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3001:b95f:404e:ba68:297d:67b8]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3000:fa65:e9b7:4ac5:7bbd:ca6c]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3002:0:6f93:7449:91f3:1716]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:10:e99c:d6ad:5032:637a:6f58]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0525
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2400:cb00:2049:d80:55d:ee43:eba7:fd85]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-1-0524US-old
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:310c:2c3f:53a5:e3a1:6ee4:32c7]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-1-0524US-old
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:3110:1dfd:3f3c:5de9:d569:fe3a]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-1-0524US-old

@@ -29,4 +29,10 @@ vless://1f5abe87-25e0-4ffe-8509-63839e43f632@15.165.49.161:8080?encryption=none&
 vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.0.31:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#0624-25SG
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRXLUdvb2dsZSIsDQogICJhZGQiOiAiMTA0LjE5OS4xNzQuMjAiLA0KICAicG9ydCI6ICI2Mzc4NyIsDQogICJpZCI6ICJlY2QzNTkxYS1mOTFjLTQ1YmMtYjEwZC1mOGU2Zjk2NTZhOGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.76.77.103:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#0619-13HK
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:45:3fe2:b28:addf:167d]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:45:3fe2:b28:7db9:9985]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:45:3f1e:ec6f:e9a:3514]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:0:b5:5807:f696:3928]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:0:b5:10a8:776:d0ab]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
+vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:d18a:6d92:1cf9:2135:f4bb]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
 

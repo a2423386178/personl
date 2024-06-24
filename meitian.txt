@@ -29,4 +29,4 @@ vless://1f5abe87-25e0-4ffe-8509-63839e43f632@15.165.49.161:8080?encryption=none&
 vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.0.31:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#0624-25SG
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRXLUdvb2dsZSIsDQogICJhZGQiOiAiMTA0LjE5OS4xNzQuMjAiLA0KICAicG9ydCI6ICI2Mzc4NyIsDQogICJpZCI6ICJlY2QzNTkxYS1mOTFjLTQ1YmMtYjEwZC1mOGU2Zjk2NTZhOGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.76.77.103:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#0619-13HK
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@8.219.126.240:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#0619-215SG
+

@@ -25,13 +25,9 @@ vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:0:b5:10a8:776:d0ab]:4
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:45:3fe2:b28:7db9:9985]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:d18a:6d92:1cf9:2135:f4bb]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2606:4700:f4:0:b5:5807:f696:3928]:443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-0624
-vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:180:9351::3]:2053?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:181:9c26::]:2053?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
-vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:180:9351::3]:2083?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:181:9c26::]:2087?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:181:9c26::]:8443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
-vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:180:9351::3]:2087?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:181:9c26::]:2083?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
 vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:181:9c26::]:2096?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
-vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:180:9351::3]:2096?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
-vless://b0933879-321b-459e-8bf3-879d6d22703c@[2407:30c0:180:9351::3]:8443?encryption=none&security=tls&sni=1.w58.pp.ua&fp=random&type=ws&host=1.w58.pp.ua&path=%2F%3Fed%3D2048#V6-AU
+

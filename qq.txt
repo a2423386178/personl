@@ -1,43 +1,353 @@
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@136.175.179.68:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#US7-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@54.200.244.93:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#US41-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@4.255.56.138:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#US32-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@65.75.193.187:34237?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#US25-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@65.75.195.188:50795?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#US15-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@65.75.193.21:37813?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#US14-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.8.82:2053?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG97-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.117.48:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG96-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.254.120:2053?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG92-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.146.249:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG91-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.117.48:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG90-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.180.24:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG87-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.180.51:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG86-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.84.173:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG84-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@13.250.131.37:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG8-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.202.91:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG76-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.170.225:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG71-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.174.206:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG66-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.170.225:2053?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG64-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.146.249:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG62-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.167.231:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG61-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.8.82:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG60-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.253.41:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG59-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.102.102:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG56-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.202.91:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG53-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.145.85:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG52-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.180.24:2096?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG51-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.167.231:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG50-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.164.215:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG47-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.84.173:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG37-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.17.193:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG35-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.93.176:8443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG30-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.237.14.220:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG27-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.117.48:2096?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG26-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.254.120:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG22-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.202.91:2053?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG17-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.167.231:2083?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG11-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.236.145.85:2053?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#SG103-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.238.40.58:2087?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#HK6-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@18.167.20.205:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#HK5-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@18.167.208.181:443?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#HK4-0629
-vless://1f5abe87-25e0-4ffe-8509-63839e43f632@47.238.40.58:2053?encryption=none&security=tls&sni=1.wer59.filegear-sg.me&fp=random&type=ws&host=1.wer59.filegear-sg.me&path=%2FproxyIP%3Doracle.gitgoogle.com#HK3-0629
-
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "api",
+      "port": 10813,
+      "listen": "127.0.0.1",
+      "protocol": "dokodemo-door",
+      "settings": {
+        "udp": false,
+        "address": "127.0.0.1",
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "99.83.209.185",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.187",
+            "port": 34237,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.21",
+            "port": 37813,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "54.193.48.13",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "136.175.179.68",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "136.175.179.68",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "54.200.244.93",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.21",
+            "port": 37813,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.195.188",
+            "port": 50795,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.187",
+            "port": 34237,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "3.18.225.231",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "4.255.56.138",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "3.15.147.151",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "35.236.55.171",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "54.200.244.93",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "1.wer59.filegear-sg.me",
+          "fingerprint": "random",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/proxyIP=oracle.gitgoogle.com",
+          "headers": {
+            "Host": "1.wer59.filegear-sg.me"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "balancers": [
+    {
+      "tag": "loadbalancer",
+      "selector": [
+        "proxy"
+      ]
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:example-example.com",
+          "domain:example-example2.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "block",
+        "domain": [
+          "geosite:category-ads-all"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:cn",
+          "geosite:geolocation-cn"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn"
+        ]
+      },
+      {
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "loadbalancer"
+      }
+    ]
+  }
+}

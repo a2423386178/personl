@@ -1,1 +1,1034 @@
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "api",
+      "port": 10813,
+      "listen": "127.0.0.1",
+      "protocol": "dokodemo-door",
+      "settings": {
+        "udp": false,
+        "address": "127.0.0.1",
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "13.250.131.37",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.167.231",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.202.91",
+            "port": 2053,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.8.82",
+            "port": 2053,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.254.120",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.84.124",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.117.48",
+            "port": 2096,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.95.13",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.14.220",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.96.80",
+            "port": 2096,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.114.163",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.96.80",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.202.91",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.93.176",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.17.193",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.84.173",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.102.52",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.86.185",
+            "port": 2096,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.8.82",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.164.215",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.144.48",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.84.124",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.10.182",
+            "port": 2096,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.167.231",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.180.24",
+            "port": 2096,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.145.85",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.202.91",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.84.124",
+            "port": 2053,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.105.224",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.102.102",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.8.82",
+            "port": 2096,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.253.41",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.237.8.82",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.167.231",
+            "port": 8443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.146.249",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.170.225",
+            "port": 2053,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.114.163",
+            "port": 2053,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.96.80",
+            "port": 2053,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.245.86.230",
+            "port": 2087,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "47.236.174.206",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "1.wer59.filegear-sg.me",
+          "fingerprint": "random",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/proxyIP=oracle.gitgoogle.com",
+          "headers": {
+            "Host": "1.wer59.filegear-sg.me"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "balancers": [
+    {
+      "tag": "loadbalancer",
+      "selector": [
+        "proxy"
+      ]
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:example-example.com",
+          "domain:example-example2.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "block",
+        "domain": [
+          "geosite:category-ads-all"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:cn",
+          "geosite:geolocation-cn"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn"
+        ]
+      },
+      {
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "loadbalancer"
+      }
+    ]
+  }
+}
 
+
+
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "api",
+      "port": 10813,
+      "listen": "127.0.0.1",
+      "protocol": "dokodemo-door",
+      "settings": {
+        "udp": false,
+        "address": "127.0.0.1",
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "99.83.209.185",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.187",
+            "port": 34237,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.21",
+            "port": 37813,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "54.193.48.13",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "136.175.179.68",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "136.175.179.68",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "54.200.244.93",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.21",
+            "port": 37813,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.195.188",
+            "port": 50795,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "65.75.193.187",
+            "port": 34237,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "3.18.225.231",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "4.255.56.138",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "3.15.147.151",
+            "port": 2083,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "35.236.55.171",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          },
+          {
+            "address": "54.200.244.93",
+            "port": 443,
+            "users": [
+              {
+                "id": "1f5abe87-25e0-4ffe-8509-63839e43f632",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "1.wer59.filegear-sg.me",
+          "fingerprint": "random",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/proxyIP=oracle.gitgoogle.com",
+          "headers": {
+            "Host": "1.wer59.filegear-sg.me"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "balancers": [
+    {
+      "tag": "loadbalancer",
+      "selector": [
+        "proxy"
+      ]
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:example-example.com",
+          "domain:example-example2.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "block",
+        "domain": [
+          "geosite:category-ads-all"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:cn",
+          "geosite:geolocation-cn"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn"
+        ]
+      },
+      {
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "loadbalancer"
+      }
+    ]
+  }
+}

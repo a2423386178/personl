@@ -2,6 +2,7 @@
 [电影频道],#genre#
 东森新闻,https://www.youtube.com/watch?v=iIfCxjLbkO0&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51#http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8#https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
 东森电影,https://z02.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+HBO 2,http://212.102.60.231/HBO_2/index.m3u8
 电影轮播,https://pull.kktv8.com/livekktv/128600025.flv
 林正英2,https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
 鳳凰電影,https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv

@@ -6,25 +6,23 @@
 HBO FAMILY,http://212.102.60.231/HBO_FAMILY/index.m3u8
 HBO 2,http://212.102.60.231/HBO_2/index.m3u8
 电影轮播,https://pull.kktv8.com/livekktv/128600025.flv
-林正英2,https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
+斗鱼电影1,http://allinone.netsite.cc/douyu/747764
+斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
+斗鱼电影3,http://allinone.netsite.cc/douyu/36337
+斗鱼电影4,http://allinone.netsite.cc/douyu/2436390
+斗鱼电影5,http://allinone.netsite.cc/douyu/323876
 鳳凰電影,https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
 龍華偶像,https://epg.pw/stream/e97be47c169b517b3741c141439277b6c2f0adb39b23fe8d15bec7142625a9dd.m3u8
 Celestial Movies,https://epg.pw/stream/ed70f3e152ca136b11a90a527a2107d435d85a9dfe0fc89e394e9a1632eb390c.ctv
 CCM,https://epg.pw/stream/38315b7e47e5c3e4edabb0aff309024a0aedc5a314d6a37f1d8de19be7fa9a82.ctv
-天映頻道(MAS),https://epg.pw/stream/6ce6153c50095866e921e3584843aa8086ed10a8911a1793d641b281541db5c6.ctv#https://epg.pw/stream/43066b08827ad9e7ff2a93611e24972ed7ab82bc309abc5083945a413105e0aa.ctv
-BRTV影视,http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8
-CHC高畫質電影,https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
-CHC動作電影,https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ#http://58.19.182.187:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://58.19.182.187:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC高清电影,http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CH305/TVB經典,https://epg.pw/stream/5d0298998b25f2cb3d5b67c3daf2c898c4a469a38c68f1746a0900dade38802e.ctv#https://epg.pw/stream/e7de1365dd102ac5299e903a93d76b7a424c6fb81b4a3ff93148eac9e6bbef33.ctv
+天映頻道(MAS),https://epg.pw/stream/6ce6153c50095866e921e3584843aa8086ed10a8911a1793d641b281541db5c6.ctv
+天映頻道(MAS),https://epg.pw/stream/43066b08827ad9e7ff2a93611e24972ed7ab82bc309abc5083945a413105e0aa.ctv
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+CH305/TVB經典,https://epg.pw/stream/5d0298998b25f2cb3d5b67c3daf2c898c4a469a38c68f1746a0900dade38802e.ctv
+CH305/TVB經典,https://epg.pw/stream/e7de1365dd102ac5299e903a93d76b7a424c6fb81b4a3ff93148eac9e6bbef33.ctv
 TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
-HOT歐美影院,https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8
-广东影视,http://glive.grtn.cn/live/health.m3u8#http://php.jdshipin.com:8880/chudian.php?id=gdys
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
 🐸音乐-响应优先,#genre#
 Space Shower TV (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 Страна FM (720p) [Not 24/7],http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
